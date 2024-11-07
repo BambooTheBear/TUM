@@ -1,0 +1,2 @@
+A Sign Extension keeps the sign of the value (in a [[Zweierkomplement]])
+e.g. the 12bit Immidiate 1111.0000.0000 (-256) would after a SignExt to 32bits become 1111.1111.1111.1111.1111.1111.0000.0000 (-256)
