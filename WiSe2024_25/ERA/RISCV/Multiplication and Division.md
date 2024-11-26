@@ -5,6 +5,9 @@
 | mulh rd, rs1, rs2   | multiply high signed signed     | rd = rs1 \* rs2 | ^^ but stores the highest 32bit, so **full result is "mulh.mul"**                                    | both signed     |
 | mulhsu rd, rs1, rs2 | multiply high signed unsigned   | rd = rs1 \* rs2 | like mulh but rs2 is an unsigned 32bit-integer                                                       | signed/unsigned |
 | mulhu rd, rs1, rs2  | multiply high unsigned unsigned | rd = rs1 \* rs2 | like mulh but both are unsigned 32bit-integer                                                        | both unsigned   |
+
+^b0332c
+
 ### Division
 | Instruction       | Description     | Operation    | Use | Notes                  |
 | ----------------- | --------------- | ------------ | --- | ---------------------- |

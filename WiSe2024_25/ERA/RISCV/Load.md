@@ -9,3 +9,5 @@
 | lui rd, upimm    | load upper <br>immidiate                    | rd = upimm_12\*b0                         | Used to load an entire 32 bit immidiate value by using _lui_ with the 20 most significant bits<br>and then adding the lower 12bits with _addi rd, rd, imm_ | 20bit   |
 | li rd, imm       | [[Pseudo Instruction]] <br>"load immidiate" | rd = imm                                  | Loads an entire 32-bit immidiate into rd, **often not included in instruction set, lui/addi safer!!**                                                      | "32bit" |
 
+^c44fab
+

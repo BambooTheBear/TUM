@@ -1,5 +1,3 @@
-PC = [[ProgrammCounter]]
-
 | Instruction      | Description                   | Operation                                              | Use                                                                                                                                                                           | Notes                            |
 | ---------------- | ----------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | jalr rd, rs, imm | jump and link register        | rd = PC+4;<br>PC = rs+[[Sign Extension\|SignExt]](imm) | _Jumps_ to the instruction in the instruction-stack at rs+imm (_Register_ +imm)<br>and _links_ the next instruction into rd => saves the _return address_ usually into **ra** | usually only for <br>quick jumps |
@@ -8,3 +6,6 @@ PC = [[ProgrammCounter]]
 | j label          | [[Pseudo Instruction]] Jumpr  | jal zero, label                                        | jumpt to a function without storing (or overwriting) the return address                                                                                                       |                                  |
 | ret              | [[Pseudo Instruction]] return | jalr zero, ra, 0                                       | jumps to the stored return address (without saving a "new" return address obv.)                                                                                               | easy return                      |
 
+^be8709
+
+PC = [[ProgrammCounter]]

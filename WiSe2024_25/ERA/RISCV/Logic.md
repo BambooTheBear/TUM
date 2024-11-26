@@ -7,3 +7,6 @@
 | xor rd, rs1, rs2  | XOR           | rd = rs1 ^ rs2                               |                                          |                                       |
 | or rd, rs1, rs2   | OR            | rd = rs1 \| rs2                              |                                          |                                       |
 | and rd, rs1, rs2  | AND           | rd = rs1 & rs2                               |                                          |                                       |
+
+^782969
+
