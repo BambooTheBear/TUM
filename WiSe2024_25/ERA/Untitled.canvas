@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"dfed536a17e592d9","type":"text","text":"","x":-631,"y":159,"width":250,"height":60},
+		{"id":"2e73f16bae3415d2","type":"file","file":"WiSe2024_25/ERA/RISCV/Store.md","subpath":"#^801857","x":-40,"y":95,"width":876,"height":275},
+		{"id":"e22eb9c859490e8e","type":"file","file":"WiSe2024_25/ERA/RISCV/Shifts.md","x":-928,"y":255,"width":834,"height":818},
+		{"id":"1549f04f57a4d71e","type":"file","file":"WiSe2024_25/ERA/RISCV/Load.md","subpath":"#^c44fab","x":-40,"y":370,"width":876,"height":564},
+		{"id":"2cca48472e63def2","type":"file","file":"WiSe2024_25/ERA/RISCV/Multiplication and Division.md","subpath":"#^b0332c","x":-923,"y":-467,"width":834,"height":309},
+		{"id":"5e33e262cb2137a3","type":"file","file":"WiSe2024_25/ERA/RISCV/Addition.md","subpath":"#^c59ca1","x":-923,"y":-712,"width":834,"height":245},
+		{"id":"c6316e2e9c0fb656","type":"file","file":"WiSe2024_25/ERA/RISCV/Logic.md","subpath":"#^782969","x":-923,"y":-158,"width":834,"height":380},
+		{"id":"a13e17f4ad554b61","type":"file","file":"WiSe2024_25/ERA/RISCV/JUMP.md","subpath":"#^be8709","x":-40,"y":-712,"width":876,"height":521},
+		{"id":"432966a8d381b86f","type":"file","file":"WiSe2024_25/ERA/RISCV/Branch.md","subpath":"#^6ca099","x":-40,"y":-262,"width":876,"height":294}
+	],
+	"edges":[]
+}
