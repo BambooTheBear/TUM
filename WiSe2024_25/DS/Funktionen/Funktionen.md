@@ -15,4 +15,4 @@ auch binäre Operationen, sind Funktionen mit 2 Parametern der selben Menge, die
 - kommutativ falls $a \circ b = b \circ a$ für alle $a, b \in A$.
 - idempotent falls $a \circ a = a$ für alle $a \in A$.
 ### Umkehrfunktionen
-die Umkehrfunktion (auch Inverse) einer Funktion ist 
+die Umkehrfunktion (auch Inverse) einer _bijektiven_ Funktion ist $f^{-1}=\{(b, a) \mid b \in B, a \in f^{-1}(\{b\})\} \in A^B$

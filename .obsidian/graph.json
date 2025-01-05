@@ -8,24 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Existentialismus/Sartre  ",
+      "query": "path:WiSe2024_25/ERA  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 5431394
       }
     },
     {
-      "query": "path:Existentialismus/Camus  ",
+      "query": "path:WiSe2024_25/DS  ",
       "color": {
         "a": 1,
-        "rgb": 16727451
-      }
-    },
-    {
-      "query": "path:Existentialismus/Simone  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084302
+        "rgb": 3522000
       }
     }
   ],
@@ -39,6 +32,6 @@
   "repelStrength": 13.8253638253638,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.9617488839496389,
+  "scale": 0.7061731675682614,
   "close": false
 }
