@@ -1,3 +1,6 @@
+"Bidirektional", "↔"
+$A \leftrightarrow B = (A \land B) \lor (\neg A \land \neg B) = A \rightarrow B \land B \rightarrow A$
+
 | A   | B   | A ↔ B |
 | --- | --- | ----- |
 | 0   | 0   | 1     |

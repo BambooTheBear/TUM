@@ -1,0 +1,3 @@
+Jede [[Aussagenlogische Formeln|boolsche Formel]] $f: \{0,1\}^n \rightarrow \{0,1\}^m$ mit beliebigen Operatoren ist in eine kanonische [[Disjunktive Normalform]]/kanonische [[Konjunktive Normalform]] umformbar,
+folglich ist die Operatormenge $\{\land, \lor, \lnot\}$ eine _vollständige_ **Operatoren-Basis**
+⇒ Wegen [[Aussagenlogische Formeln#Rechenregeln|DeMorgan]] also auch $\{\land, \lnot\}$ und $\{\lor, \lnot\}$

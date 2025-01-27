@@ -4,53 +4,105 @@
     "type": "split",
     "children": [
       {
-        "id": "f40ba353b87e814a",
+        "id": "d3c76b99241e5fdc",
         "type": "tabs",
         "children": [
           {
-            "id": "c46affbde06abd18",
+            "id": "af4645b150a9f222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Kombinatorik/Kombinatorik.md",
+                "file": "WiSe2024_25/DS/Logik/Literale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kombinatorik"
+              "title": "Literale"
             }
           },
           {
-            "id": "05a2213982c0b0d2",
+            "id": "278f9a195ff9a47f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
+                "file": "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stirlingzahlen"
+              "title": "Disjunktive Normalform"
             }
           },
           {
-            "id": "19bc29191348f7ed",
+            "id": "3cfba1c0bb2d37e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Kombinatorik/Binomialkoeffizient.md",
+                "file": "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binomialkoeffizient"
+              "title": "Disjunktive Normalform"
+            }
+          },
+          {
+            "id": "18b3cb3052b7db5e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0a02a88dc233e648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiSe2024_25/DS/Operators/if _ then _.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "if _ then _"
+            }
+          },
+          {
+            "id": "fb750dd63c28d141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPLL-Algorithmus"
+            }
+          },
+          {
+            "id": "43a382dd343d24e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiSe2024_25/DS/Logik/Aussagenlogische Formeln.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aussagenlogische Formeln"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "partitio",
+                "query": "erfüllb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +154,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,55 +239,56 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e952a6aa40c3ca13",
+  "active": "3cfba1c0bb2d37e5",
   "lastOpenFiles": [
-    "WiSe2024_25/DS/Kombinatorik/Urnenmodell.md",
-    "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
-    "WiSe2024_25/DS/Kombinatorik/Binomialkoeffizient.md",
-    "WiSe2024_25/DS/Kombinatorik/Kombinatorik.md",
-    "TODO Pascal's Dreieck.md",
-    "WiSe2024_25/DS/Kombinatorik",
-    "WiSe2024_25/DS/Untitled.md",
-    "WiSe2024_25/DS/Graphen/Matching.md",
-    "WiSe2024_25/DS/Funktionen/Funktionen von Mengen.md",
-    "WiSe2024_25/DS/Graphen/Adjazenzmatrix.md",
-    "WiSe2024_25/DS/Graphen/Graphen.md",
-    "WiSe2024_25/DS/Definitionen/Matrix.md",
-    "WiSe2024_25/DS/Graphen/Knotenfärbung.md",
-    "WiSe2024_25/DS/Graphen/Planarität.md",
-    "WiSe2024_25/DS/Graphen/Hamiltonkreis.md",
-    "WiSe2024_25/DS/Graphen/Eulerkreis.md",
-    "TODO Havel-Hakimi-Algorithmus.md",
-    "assets/Pasted image 20241225222124.png",
-    "WiSe2024_25/DS/Graphen/Baum.md",
-    "gdw.md",
-    "assets/Pasted image 20241225193432.png",
-    "WiSe2024_25/DS/Graphen/Kreis.md",
-    "WiSe2024_25/DS/Graphen/Pfad.md",
-    "WiSe2024_25/DS/Relationen/Binäre Relationen.md",
-    "WiSe2024_25/DS/Definitionen/Gültigkeit, Erfüllbarkeit.md",
-    "WiSe2024_25/DS/Relationen/Relationen.md",
-    "assets/Pasted image 20241225145307.png",
-    "WiSe2024_25/DS/Funktionen/Funktionen.md",
-    "WiSe2024_25/DS/Mengen/Sprachen.md",
-    "WiSe2024_25/DS/Mengen/Kardinalität.md",
-    "assets/Pasted image 20241223160322.png",
-    "assets/Pasted image 20241223160257.png",
-    "assets/Pasted image 20241223160129.png",
+    "x.txt",
+    "Textdokument (neu).txt",
+    "WiSe2024_25/DS/Logik/Resolution.md",
+    "assets/Pasted image 20250127151220.png",
+    "WiSe2024_25/DS/Operators/if _ then _.md",
+    "WiSe2024_25/DS/Logik/Aussagenlogische Formeln.md",
+    "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
+    "assets/Pasted image 20250126152314.png",
+    "assets/Pasted image 20250126150337.png",
+    "WiSe2024_25/DS/Logik/Erfüllbarkeitsproblem SAT.md",
+    "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
+    "WiSe2024_25/DS/Logik/Erfüllbarkeits äquivalent.md",
+    "WiSe2024_25/DS/Operators/gdw. (XNOR).md",
+    "WiSe2024_25/DS/Logik/Syntaxbaum.md",
+    "WiSe2024_25/DS/Operators/Operatoren.md",
+    "WiSe2024_25/DS/Logik/Konjunktive Normalform.md",
+    "WiSe2024_25/DS/Operators/OR.md",
+    "WiSe2024_25/DS/Logik/Literale.md",
+    "WiSe2024_25/DS/Logik/Inferenzen.md",
+    "WiSe2024_25/DS/Operators/AND.md",
+    "WiSe2024_25/DS/Logik/KV Diagramme.md",
+    "WiSe2024_25/DS/Operators/XOR.md",
+    "WiSe2024_25/DS/Logik/Belegung.md",
+    "WiSe2024_25/DS/Kombinatorik/Kombinatorik.canvas",
     "WiSe2024_25/ERA/Untitled.canvas",
+    "WiSe2024_25/DS/Graphen/Kreis.md",
+    "WiSe2024_25/DS/Graphen/Graphen.md",
+    "WiSe2024_25/DS/Relationen/Binäre Relationen.md",
+    "WiSe2024_25/DS/Funktionen/Funktionen.md",
+    "WiSe2024_25/DS/Operators/ITE.md",
+    "assets/Pasted image 20250120215346.png",
+    "assets/Pasted image 20250119183008.png",
+    "assets/Pasted image 20250119170356.png",
+    "WiSe2024_25/DS/Operators/NOT.md",
+    "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
+    "assets/Pasted image 20250119164114.png",
+    "WiSe2024_25/DS/Logik",
+    "assets/Pasted image 20250112160409.png",
+    "Klausuren/GAD/binder.pdf",
+    "Klausuren/GAD/solution.pdf",
+    "Klausuren/GAD/assignment.pdf",
+    "Klausuren/GAD",
+    "Klausuren",
+    "WiSe2024_25/DS/Kombinatorik",
+    "assets/Pasted image 20241225222124.png",
+    "assets/Pasted image 20241225193432.png",
     "WiSe2024_25/DS/Funktionen",
-    "assets/Pasted image 20241124204250.png",
     "WiSe2024_25/DS/Graphen",
-    "WiSe2024_25/DS/Relationen",
-    "WiSe2024_25/DS/Mengen",
-    "assets/Pasted image 20241110231246.png",
-    "WiSe2024_25/DS/Beweise",
-    "Untitled.canvas",
-    "WiSe2024_25/DS/Definitionen",
-    "assets/Pasted image 20241110232328.png",
-    "assets/Pasted image 20241110232004.png",
-    "assets",
-    "WiSe2024_25/DS/binary Operators",
-    "WiSe2024_25/ERA/RISCV"
+    "Untitled.canvas"
   ]
 }

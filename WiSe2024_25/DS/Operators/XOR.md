@@ -1,3 +1,6 @@
+⇒ "entweder _ oder _"
+⇒ $A \oplus B = (A \lor B) \land \neg(A \land B)$
+
 | A   | B   | A ⊕ B |
 | --- | --- | ----- |
 | 0   | 0   | 0     |

@@ -15,7 +15,19 @@ Anzahl der [[Potenzmenge#Partitionen|Partitionen]] von $n$ Elementen in $k$ (nic
 >[!warning] Achtung!
 >bei $F_{n,k}$ ist $k$ die Anzahl der Objekte auf die $n$ Mengen, bei $S_{n,k}$ umgekehrt!
 
-# Stirlingzahlen 1. Art $s_{n,k}$
+## Objekte nicht unterscheidbar, Mengen schon (MINDESTENS 1)
+⇒ $G_{n,k}$
+⇒ $G_{n,k}= \binom{n-1}{k-1}$
+
+## Objekte nicht unterscheidbar, Mengen nicht unterscheidbar (Mindestens 1)
+$\vert P_{n,k} \vert = \vert P_{n-1,k-1} \vert + \vert P_{n-k,k} \vert \quad \text{für } k > 0$  
+$\vert P_{n,0} \vert = 0 \quad \text{für } n > 0$  
+$\vert P_{n,k} \vert = 0 \quad \text{für } k > n$  
+$\vert P_{n,n} \vert = 1$
+
+## Objekte nicht unterscheidbar, Mengen nicht unterscheidbar (NICHT min. 1)
+⇒ $H_{n,k}=P_{n+k,k}$
+# Stirlingzahlen 1. Art $s_{n,k}$ //TODO genau anschauen
 ⇒ Anzahl der Permutationen $[n]$ mit genau $[k]$ Zyklen
 $s_{n,k} = \left[ \begin{array}{c} n \\ k \end{array} \right]$
 //Todo formel
