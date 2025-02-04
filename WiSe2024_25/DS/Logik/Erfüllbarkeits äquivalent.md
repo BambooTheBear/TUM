@@ -8,6 +8,7 @@ Man erstellt für jeden Teilbaum eine neue "Hilfsvariabel" $p_i$, dadurch ist je
 Dann gilt ja $p_i \leftrightarrow (p_jxp_k)$, man fügt also $p_i \leftrightarrow (p_jxp_k)$ zu $E_F$ hinzu.
 
 ### Algorithmus
+⇒ [[Tseitin Transformation]]?
 Man nehme eine belibige [[Aussagenlogische Formeln|Boolsche Formel]] $F$ mit beliebigen **binären** [[Operatoren]] und Konstruiere den [[Syntaxbaum]]
 Sei $E_F$ die zu bildende Formeln mit $E_F \equiv_e F$
 

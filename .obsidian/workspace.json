@@ -8,101 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af4645b150a9f222",
+            "id": "ecf2b2cc54bef4f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Logik/Literale.md",
+                "file": "WiSe2024_25/DS/Zahlentheorie/Erweiterter Euklidischer Algorithmus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literale"
-            }
-          },
-          {
-            "id": "278f9a195ff9a47f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Disjunktive Normalform"
-            }
-          },
-          {
-            "id": "3cfba1c0bb2d37e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Disjunktive Normalform"
-            }
-          },
-          {
-            "id": "18b3cb3052b7db5e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0a02a88dc233e648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiSe2024_25/DS/Operators/if _ then _.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "if _ then _"
-            }
-          },
-          {
-            "id": "fb750dd63c28d141",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DPLL-Algorithmus"
-            }
-          },
-          {
-            "id": "43a382dd343d24e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiSe2024_25/DS/Logik/Aussagenlogische Formeln.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aussagenlogische Formeln"
+              "title": "Erweiterter Euklidischer Algorithmus"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "erfüllb",
+                "query": "dpl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,24 +158,45 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cfba1c0bb2d37e5",
+  "active": "ecf2b2cc54bef4f7",
   "lastOpenFiles": [
-    "x.txt",
-    "Textdokument (neu).txt",
+    "WiSe2024_25/DS/Zahlentheorie/Komprime.md",
+    "WiSe2024_25/DS/Zahlentheorie/Erweiterter Euklidischer Algorithmus.md",
+    "Klausuren/DS/DS Trainer.pdf",
+    "Klausuren/DS/Vollständige Induktion.pdf",
+    "Klausuren/DS/Karteikarten.pdf",
+    "Klausuren/DS/Fehlerverbesserung.pdf",
+    "Klausuren/DS/Erweiterter Euklidischer Algorithmus.pdf",
+    "Klausuren/ERA/2023_endterm_lsg.pdf",
+    "Klausuren/ERA/2023_endterm.pdf",
+    "Klausuren/ERA/2022_retake.lsg.pdf",
+    "Klausuren/ERA/2022_retake.pdf",
+    "Klausuren/ERA/2022_endterm.lsg.pdf",
+    "Klausuren/GBS/Klausur/Musterlösung.jpg",
+    "Klausuren/GBS/Klausur/16.jpg",
+    "Klausuren/GBS/Klausur/15.jpg",
+    "Klausuren/GBS/Klausur/14.jpg",
+    "Klausuren/GBS/Klausur/13.jpg",
+    "Klausuren/GBS/Klausur/12.jpg",
+    "Klausuren/GBS/Klausur/11.jpg",
+    "Klausuren/GBS/Klausur/10 (2).jpg",
+    "Klausuren/GBS/Klausur/9.jpg",
+    "Klausuren/GBS/Klausur/8.jpg",
+    "WiSe2024_25/DS/Zahlentheorie/Teilbarkeit.md",
+    "WiSe2024_25/DS/Logik/Erfüllbarkeits äquivalent.md",
+    "WiSe2024_25/DS/Logik/Konjunktive Normalform.md",
+    "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
+    "WiSe2024_25/DS/Logik/Erfüllbarkeitsproblem SAT.md",
+    "WiSe2024_25/DS/Logik/Tseitin Transformation.md",
+    "WiSe2024_25/Links.md",
+    "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
+    "WiSe2024_25/DS/Untitled.md",
     "WiSe2024_25/DS/Logik/Resolution.md",
-    "assets/Pasted image 20250127151220.png",
     "WiSe2024_25/DS/Operators/if _ then _.md",
     "WiSe2024_25/DS/Logik/Aussagenlogische Formeln.md",
-    "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
-    "assets/Pasted image 20250126152314.png",
-    "assets/Pasted image 20250126150337.png",
-    "WiSe2024_25/DS/Logik/Erfüllbarkeitsproblem SAT.md",
-    "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
-    "WiSe2024_25/DS/Logik/Erfüllbarkeits äquivalent.md",
     "WiSe2024_25/DS/Operators/gdw. (XNOR).md",
     "WiSe2024_25/DS/Logik/Syntaxbaum.md",
     "WiSe2024_25/DS/Operators/Operatoren.md",
-    "WiSe2024_25/DS/Logik/Konjunktive Normalform.md",
     "WiSe2024_25/DS/Operators/OR.md",
     "WiSe2024_25/DS/Logik/Literale.md",
     "WiSe2024_25/DS/Logik/Inferenzen.md",
@@ -268,27 +208,6 @@
     "WiSe2024_25/ERA/Untitled.canvas",
     "WiSe2024_25/DS/Graphen/Kreis.md",
     "WiSe2024_25/DS/Graphen/Graphen.md",
-    "WiSe2024_25/DS/Relationen/Binäre Relationen.md",
-    "WiSe2024_25/DS/Funktionen/Funktionen.md",
-    "WiSe2024_25/DS/Operators/ITE.md",
-    "assets/Pasted image 20250120215346.png",
-    "assets/Pasted image 20250119183008.png",
-    "assets/Pasted image 20250119170356.png",
-    "WiSe2024_25/DS/Operators/NOT.md",
-    "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
-    "assets/Pasted image 20250119164114.png",
-    "WiSe2024_25/DS/Logik",
-    "assets/Pasted image 20250112160409.png",
-    "Klausuren/GAD/binder.pdf",
-    "Klausuren/GAD/solution.pdf",
-    "Klausuren/GAD/assignment.pdf",
-    "Klausuren/GAD",
-    "Klausuren",
-    "WiSe2024_25/DS/Kombinatorik",
-    "assets/Pasted image 20241225222124.png",
-    "assets/Pasted image 20241225193432.png",
-    "WiSe2024_25/DS/Funktionen",
-    "WiSe2024_25/DS/Graphen",
     "Untitled.canvas"
   ]
 }
