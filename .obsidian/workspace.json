@@ -11,14 +11,14 @@
             "id": "ecf2b2cc54bef4f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "WiSe2024_25/DS/Zahlentheorie/Erweiterter Euklidischer Algorithmus.md",
-                "mode": "source",
-                "source": false
+                "aFile": "WiSe2024_25/DS/Zahlentheorie/Erweiterter Euklidischer Algorithmus.md",
+                "bFile": "WiSe2024_25/DS/Zahlentheorie/Erweiterter Euklidischer Algorithmus.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Erweiterter Euklidischer Algorithmus"
+              "icon": "diff",
+              "title": "Diff: Erweiterter Euklidischer Algorithmus"
             }
           }
         ]
@@ -140,13 +140,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "4faca2eaf912e954",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,13 +165,14 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ecf2b2cc54bef4f7",
   "lastOpenFiles": [
-    "WiSe2024_25/DS/Zahlentheorie/Komprime.md",
     "WiSe2024_25/DS/Zahlentheorie/Erweiterter Euklidischer Algorithmus.md",
+    "WiSe2024_25/DS/Zahlentheorie/Komprime.md",
     "Klausuren/DS/DS Trainer.pdf",
     "Klausuren/DS/Vollständige Induktion.pdf",
     "Klausuren/DS/Karteikarten.pdf",
