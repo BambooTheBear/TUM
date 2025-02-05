@@ -28,7 +28,7 @@ $\vert P_{n,n} \vert = 1$
 ## Objekte nicht unterscheidbar, Mengen nicht unterscheidbar (NICHT min. 1)
 ⇒ $H_{n,k}=P_{n+k,k}$
 # Stirlingzahlen 1. Art $s_{n,k}$ //TODO genau anschauen
-⇒ Anzahl der Permutationen $[n]$ mit genau $[k]$ Zyklen
+⇒ Anzahl der [[Permutationen]] $[n]$ mit genau $[k]$ Zyklen
 $s_{n,k} = \left[ \begin{array}{c} n \\ k \end{array} \right]$
 //Todo formel
 # Rekursion

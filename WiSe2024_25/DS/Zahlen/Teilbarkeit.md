@@ -1,6 +1,6 @@
 $n$ teilt $m$ ganzzahlig:                                                          $n \mid m \iff \frac{m}{n} \in \mathbb{Z} \iff m \in n\mathbb{Z} := \{kn \mid k \in \mathbb{Z}\}$
 kleinstes gemeinsames Vielfaches:                                   $\text{kgV}(a, b) := \min\{m \in \mathbb{N} : a \mid m, b \mid m\} = \prod_{p \in \mathbb{P}} p^{\max\{\nu_p(a), \nu_p(b)\}}$  
-$a$ und $b$ sind teilerfremd (koprim):                                    $\text{ggT}(a, b) = 1$
+$a$ und $b$ sind teilerfremd ([[Komprime|koprim]]):                                    $\text{ggT}(a, b) = 1$
 $a$ mod $n$:                                                                           $a\%n = a - \left\lfloor \frac{a}{n} \right\rfloor n = r\in \{0,n-1\}, a\equiv_n r$
 
 ### ggT
