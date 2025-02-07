@@ -15,9 +15,9 @@ Der Algorithmus startet mit der folgenden Tabelle und nur $a_1, b_1$ eingefüllt
 | 1   | $7387$                       | $8633$          | $\lfloor 8633 / 7387 \rfloor = 1$       | $1 - 1 \cdot 6 = -7$                                      | $6$                      |
 | 2   | $1246$                       | $7387$          | $\lfloor 7387 / 1246 \rfloor = 5$       | $1 - (-1) \cdot 5 = 6$                                    | $-1$                     |
 | 3   | $1157$                       | $1246$          | $\lfloor 1246 / 1157 \rfloor = 1$       | $0 - 1 \cdot 1 = -1$                                      | $1$                      |
-| 4   | $89$                         | $1157$          | $\lfloor 1157 / 89 \rfloor = 13$        | $1 - 0.13 = 1$                                            | $0$                      |
+| 4   | $89$                         | $1157$          | $\lfloor 1157 / 89 \rfloor = 13$        | $1 - 0\cdot13 = 1$                                        | $0$                      |
 | 5   | $0$                          | $89$            | $-$                                     | $0$                                                       | $1$                      |
-⇒ In jeder Zeile gilt $\text{ggT}(a_{n+1}, b_{n+1}) = \text{ggT}(a_n, b_n) = \alpha_n \cdot a_n + \beta_n \cdot b_n$
+⇒ In jeder Zeile gilt $\text{ggT}(a_{n+1}, b_{n+1}) = \text{ggT}(a_n, b_n) = \alpha_n \cdot a_n + \beta_n \cdot b_n$ 
 
 ## Folgerungen aus Bezout/EEA
 $\text{ggT}(a, n) = \text{ggT}(b, n) = 1 \quad \iff \quad \text{ggT}(ab, n) = 1;$
