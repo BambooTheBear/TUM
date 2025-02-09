@@ -18,6 +18,7 @@ Der Algorithmus startet mit der folgenden Tabelle und nur $a_1, b_1$ eingefüllt
 | 4   | $89$                         | $1157$          | $\lfloor 1157 / 89 \rfloor = 13$        | $1 - 0.13 = 1$                                            | $0$                      |
 | 5   | $0$                          | $89$            | $-$                                     | $0$                                                       | $1$                      |
 ⇒ In jeder Zeile gilt $\text{ggT}(a_{n+1}, b_{n+1}) = \text{ggT}(a_n, b_n) = \alpha_n \cdot a_n + \beta_n \cdot b_n$
+$\alpha$ ist Inverse von $a$ bezüglich $b$
 
 ## Folgerungen aus Bezout/EEA
 $\text{ggT}(a, n) = \text{ggT}(b, n) = 1 \quad \iff \quad \text{ggT}(ab, n) = 1;$

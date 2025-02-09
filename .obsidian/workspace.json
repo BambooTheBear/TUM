@@ -4,67 +4,118 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6842676be3e053",
+        "id": "fd55c95d630a7162",
         "type": "tabs",
         "children": [
           {
-            "id": "5fa55e49395ae02a",
+            "id": "8a47eacbffb10107",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "WiSe2024_25/DS/Gruppen/Gruppen als Graphen.md",
-                "mode": "source",
-                "source": false
+                "file": "WiSe2024_25/DS/Kombinatorik/Kombinatorik.canvas",
+                "viewState": {
+                  "x": 199.25765550234055,
+                  "y": 233.22046922132995,
+                  "zoom": -0.09297825824862023
+                }
               },
-              "icon": "lucide-file",
-              "title": "Gruppen als Graphen"
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Kombinatorik"
             }
           },
           {
-            "id": "4ecf767ce4a0fe10",
+            "id": "3e5c67483d2dc76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Gruppen/Potenzen.md",
+                "file": "WiSe2024_25/DS/Kombinatorik/Urnenmodell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potenzen"
+              "title": "Urnenmodell"
             }
           },
           {
-            "id": "a6d483a745d03b97",
+            "id": "af2053bce66c3432",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Gruppen/Gruppe.md",
+                "file": "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Gruppe"
+              "title": "DPLL-Algorithmus"
             }
           },
           {
-            "id": "0cf5c027aa6e8a47",
+            "id": "d2347c1153286e9e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiSe2024_25/DS/Logik/Resolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Resolution"
+            }
+          },
+          {
+            "id": "31b41ee8271b7dee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WiSe2024_25/DS/Mengen/Permutationen.md",
+                "file": "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Permutationen"
+              "title": "Disjunktive Normalform"
+            }
+          },
+          {
+            "id": "ed8f94e247ac4d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WiSe2024_25/DS/Graphen/Matching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matching"
+            }
+          },
+          {
+            "id": "08924357d4e37a62",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "WiSe2024_25/DS/Gruppen/Gruppe.md",
+                "bFile": "WiSe2024_25/DS/Gruppen/Gruppe.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Gruppe"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -83,8 +134,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kleiner",
+                "query": "gale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +187,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiSe2024_25/DS/Gruppen/Potenzen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Potenzen"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +205,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WiSe2024_25/DS/Gruppen/Potenzen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Potenzen"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,9 +219,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -184,14 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WiSe2024_25/DS/Gruppen/Potenzen.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Potenzen"
+              "title": "Outline"
             }
           },
           {
@@ -222,28 +263,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4faca2eaf912e954",
+  "active": "08924357d4e37a62",
   "lastOpenFiles": [
-    "WiSe2024_25/DS/Gruppen/Gruppen als Graphen.md",
-    "WiSe2024_25/DS/Zahlen/Erweiterter Euklidischer Algorithmus.md",
-    "WiSe2024_25/DS/Gruppen/Potenzen.md",
-    "WiSe2024_25/DS/Gruppen/Gruppe.md",
-    "WiSe2024_25/ERA/Untitled.canvas",
     "WiSe2024_25/DS/Kombinatorik/Kombinatorik.canvas",
-    "WiSe2024_25/DS/Mengen/Permutationen.md",
+    "WiSe2024_25/DS/Kombinatorik/Urnenmodell.md",
+    "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
+    "WiSe2024_25/DS/Graphen/Matching.md",
+    "WiSe2024_25/DS/Zahlen/Teilbarkeit.md",
+    "WiSe2024_25/DS/Gruppen/Gruppe.md",
+    "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
+    "WiSe2024_25/DS/Logik/Resolution.md",
+    "TODO Havel-Hakimi-Algorithmus.md",
+    "WiSe2024_25/DS/Graphen/Graphen.md",
+    "WiSe2024_25/DS/Operators/gdw. (XNOR).md",
+    "WiSe2024_25/DS/Operators/if _ then _.md",
+    "WiSe2024_25/DS/Logik/Konjunktive Normalform.md",
+    "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
+    "WiSe2024_25/DS/Mengen/Mengen.md",
+    "WiSe2024_25/DS/Mengen/Kardinalität.md",
+    "WiSe2024_25/DS/Gruppen/Gruppen als Graphen.md",
+    "WiSe2024_25/DS/Gruppen/Potenzen.md",
+    "WiSe2024_25/DS/Zahlen/Komprime.md",
+    "WiSe2024_25/DS/Graphen/Planarität.md",
+    "WiSe2024_25/DS/Zahlen/Erweiterter Euklidischer Algorithmus.md",
+    "WiSe2024_25/DS/Graphen/Hamiltonkreis.md",
+    "WiSe2024_25/ERA/Zweierkomplement.md",
+    "Welcome.md",
+    "WiSe2024_25/ERA/Sign Extension.md",
+    "WiSe2024_25/ERA/ZeroExtension.md",
+    "WiSe2024_25/ERA/Untitled.canvas",
     "assets/Pasted image 20250205150002.png",
     "assets/Pasted image 20250205145642.png",
-    "WiSe2024_25/DS/Graphen/Graphen.md",
-    "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
-    "WiSe2024_25/DS/Zahlen/Komprime.md",
-    "WiSe2024_25/DS/Zahlen/Teilbarkeit.md",
-    "WiSe2024_25/DS/Funktionen/Funktionen von Mengen.md",
-    "WiSe2024_25/DS/Mengen/Kardinalität.md",
-    "WiSe2024_25/DS/Mengen/Mengen.md",
-    "WiSe2024_25/DS/Mengen/Potenzmenge.md",
     "assets/Pasted image 20250204165114.png",
+    "WiSe2024_25/DS/Zahlen",
     "WiSe2024_25/DS/Gruppen",
-    "WiSe2024_25/ERA/HA11.md",
     "Klausuren/DS/DS Trainer.pdf",
     "Klausuren/DS/Vollständige Induktion.pdf",
     "Klausuren/DS/Karteikarten.pdf",
@@ -252,7 +305,6 @@
     "Klausuren/ERA/2023_endterm_lsg.pdf",
     "Klausuren/ERA/2023_endterm.pdf",
     "Klausuren/ERA/2022_retake.lsg.pdf",
-    "Klausuren/ERA/2022_retake.pdf",
     "Klausuren/GBS/Klausur/Musterlösung.jpg",
     "Klausuren/GBS/Klausur/16.jpg",
     "Klausuren/GBS/Klausur/15.jpg",
@@ -260,17 +312,6 @@
     "Klausuren/GBS/Klausur/13.jpg",
     "Klausuren/GBS/Klausur/12.jpg",
     "Klausuren/GBS/Klausur/11.jpg",
-    "WiSe2024_25/DS/Logik/Erfüllbarkeits äquivalent.md",
-    "WiSe2024_25/DS/Logik/Konjunktive Normalform.md",
-    "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
-    "WiSe2024_25/DS/Logik/Erfüllbarkeitsproblem SAT.md",
-    "WiSe2024_25/DS/Logik/Tseitin Transformation.md",
-    "WiSe2024_25/Links.md",
-    "WiSe2024_25/DS/Logik/Disjunktive Normalform.md",
-    "WiSe2024_25/DS/Untitled.md",
-    "WiSe2024_25/DS/Logik/Resolution.md",
-    "WiSe2024_25/DS/Operators/if _ then _.md",
-    "WiSe2024_25/DS/Logik/Aussagenlogische Formeln.md",
     "Untitled.canvas"
   ]
 }

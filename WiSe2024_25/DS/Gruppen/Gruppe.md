@@ -1,4 +1,4 @@
-Eine Gruppe $\mathbb{G}$ wird notiert durch $\mathbb{G}$ ≙ $(\mathbb{G}, \text{Operator}, \text{neutrales Element})$
+0Eine Gruppe $\mathbb{G}$ wird notiert durch $\mathbb{G}$ ≙ $(\mathbb{G}, \text{Operator}, \text{neutrales Element})$
 Eine _valide_ **Gruppe** ist abhängig vom _Operator_ additiv oder multiplikativ
 ### additive Gruppen
 Eine Gruppe ist _additiv_ (z.B. $\mathbb{G}$≙$(\mathbb{Z}, +, 0)$) wenn sie:
@@ -21,12 +21,11 @@ Eine Gruppe ist _multiplikativ_ (z.B. $\mathbb{G}$≙$(\mathbb{R}, \cdot, 1)$) w
 ⇒ valide multiplikative Gruppen: $(\mathbb{R}, \cdot, 1)$, $(\mathbb{Q}, \cdot, 1)$, $(\mathbb{Z}, \cdot, 1)$
 
 ## Eigenschaften
-$|\mathbb{G}|$ ist die _Gruppenordung_,
 $\mathbb{G}$ ist _endlich_ fallls die Gruppenordung _nicht unendlich_ ist
 
 $H \subseteq \mathbb{G}$ ist eine Untergruppe von $(\mathbb{G}, \cdot, 1)$, wenn $(H, \cdot, 1)$ eine Gruppe ist
 
-Der **Exponent** einer **endlichen** Gruppe $(\mathbb{G}, \cdot, 1)$ ist: $\lambda_{\mathbb{G}} := \operatorname{kgV}(\{\operatorname{ord}(a) \mid a \in \mathbb{G} \}) = \min \{ \lambda \in \mathbb{N} \mid \text{ für alle } a \in \mathbb{G}: a^\lambda = 1 \}$
+Die _Gruppenordnung_ = **Exponent** einer **endlichen** Gruppe $(\mathbb{G}, \cdot, 1)$ ist: $\lambda_{\mathbb{G}} := \operatorname{kgV}(\{\operatorname{ord}(a) \mid a \in \mathbb{G} \}) = \min \{ \lambda \in \mathbb{N} \mid \text{ für alle } a \in \mathbb{G}: a^\lambda = 1 \}$
 
 
 ### isomorph
@@ -41,6 +40,8 @@ $(\mathcal{S}_A, \circ, \operatorname{Id}_A)$ symmetrische Gruppe über $A$:
 - Inverse: Umkehrabbildung
 
 $\mathcal{S}_n$ kurz für die Menge $\mathcal{S}_{[n]}$ aller [[Permutationen]] von $[n]$.
+
+Jede $\mathcal{S}_n$ mit $n\geq 3$ hat ein _Erzeugersystem_ mit [[Graphen#Kreisgraph $C_n$|C_n]] und einer _Transposition_ z.B. (1,2)
 
 #### Cayley table
 z.B. $(\mathcal{S}_3, \circ, \operatorname{Id})$

@@ -8,7 +8,7 @@ $\bigwedge_{i=1}^m \left( \bigvee_{j=1}^{m_i} L_{i,j} \right)$ ⇒ _[[AND|Konjun
 ⇒ Kanonisch = für alle aussagenlogisch äquivalenten Formeln _identisch_
 Brute-Force indem jede Variable jeder Zeile der Wahrheitstabelle (die zur 0 wird) ver-[[OR|ODERt]] wird und dann ver-[[AND|UNDet]] wird.
 
-Jede [[Aussagenlogische Formeln|Aussagenlogische Formel]] $F$ lässt sich in DNF darstellen:
+Jede [[Aussagenlogische Formeln|Aussagenlogische Formel]] $F$ lässt sich in KNF darstellen:
 1. Stelle Wahrheitstabelle zu $F$ auf
 2. Bestimme alle minimalen _nicht_-erfüllenden Belegungen von $F$
 3. Für jede minimale _nicht_ erfüllende [[Belegung]] $\beta$, bilde die [[OR|Disjuktion]] aller [[Literale]] $p$ wenn  $\beta (p) = 0$ aus $F$, bzw. $\lnot p$ wenn $\beta (p) = 1$
