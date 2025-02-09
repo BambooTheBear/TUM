@@ -85,37 +85,9 @@
               "icon": "lucide-file",
               "title": "Disjunktive Normalform"
             }
-          },
-          {
-            "id": "ed8f94e247ac4d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WiSe2024_25/DS/Graphen/Matching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Matching"
-            }
-          },
-          {
-            "id": "08924357d4e37a62",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "WiSe2024_25/DS/Gruppen/Gruppe.md",
-                "bFile": "WiSe2024_25/DS/Gruppen/Gruppe.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Gruppe"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,12 +235,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08924357d4e37a62",
+  "active": "31b41ee8271b7dee",
   "lastOpenFiles": [
+    "WiSe2024_25/DS/Graphen/Matching.md",
+    "conflict-files-obsidian-git.md",
     "WiSe2024_25/DS/Kombinatorik/Kombinatorik.canvas",
     "WiSe2024_25/DS/Kombinatorik/Urnenmodell.md",
     "WiSe2024_25/DS/Kombinatorik/Stirlingzahlen.md",
-    "WiSe2024_25/DS/Graphen/Matching.md",
     "WiSe2024_25/DS/Zahlen/Teilbarkeit.md",
     "WiSe2024_25/DS/Gruppen/Gruppe.md",
     "WiSe2024_25/DS/Logik/DPLL-Algorithmus.md",
