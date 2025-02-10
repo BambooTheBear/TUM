@@ -1,4 +1,4 @@
-Aus einer "Urne" mit $n$ (unterschiedlichen) Kugeln werden $k$ gezogen
++Aus einer "Urne" mit $n$ (unterschiedlichen) Kugeln werden $k$ gezogen
 ## Ziehen ohne Zurücklegen mit Reihenfolge
 ⇒ Tupel mit $k$ verschiedenen Einträgen aus $[n]$
 $A_{n,k} := \{(s_1, \dots, s_k) \in [n]^k \mid \lvert \{s_1, s_2, \dots, s_k\} \rvert = k\}$

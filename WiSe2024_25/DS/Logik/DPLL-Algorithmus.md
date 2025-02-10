@@ -12,7 +12,7 @@ Vor jedem Schritt, führe aus bis nicht mehr Möglich
 #### 1. OLR
 Wenn ein Literal alleine in einer Klausel steht $\{l_i\} \in K$ dann setze $l_i$ zwangsweise auf ``true`` in allen Instanzen von $l_i$
 #### 2. PLR
-Wenn ein Literal in allen Klauseln nur als $l_i$ bzw $\lnot l_i$ vorkommt, dann aus allen Klauseln rauslöschen
+Wenn ein Literal in allen Klauseln nur als $l_i$ bzw $\lnot l_i$ vorkommt, dann setze $l_i$ zwangsweise auf ``true`` in allen Instanzen von $l_i$
 #### Wenn $K=\{\}$ 
 Wenn $K=\{\}$ dann ist die Formel _erfüllbar_ für die bisher erstellte Belegung
 #### OR true
