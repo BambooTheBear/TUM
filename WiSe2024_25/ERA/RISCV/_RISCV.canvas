@@ -8,7 +8,9 @@
 		{"id":"5e33e262cb2137a3","type":"file","file":"WiSe2024_25/ERA/RISCV/Addition.md","subpath":"#^c59ca1","x":-923,"y":-712,"width":834,"height":245},
 		{"id":"c6316e2e9c0fb656","type":"file","file":"WiSe2024_25/ERA/RISCV/Logic.md","subpath":"#^782969","x":-923,"y":-158,"width":834,"height":380},
 		{"id":"a13e17f4ad554b61","type":"file","file":"WiSe2024_25/ERA/RISCV/JUMP.md","subpath":"#^be8709","x":-40,"y":-712,"width":876,"height":521},
-		{"id":"432966a8d381b86f","type":"file","file":"WiSe2024_25/ERA/RISCV/Branch.md","subpath":"#^6ca099","x":-40,"y":-262,"width":876,"height":294}
+		{"id":"432966a8d381b86f","type":"file","file":"WiSe2024_25/ERA/RISCV/Branch.md","subpath":"#^6ca099","x":-40,"y":-262,"width":876,"height":294},
+		{"id":"3f0615ff2d17d51c","type":"file","file":"WiSe2024_25/ERA/RISCV/Register.md","x":897,"y":-712,"width":592,"height":871},
+		{"id":"bbf00bf462f752f0","x":897,"y":219,"width":951,"height":481,"type":"file","file":"WiSe2024_25/ERA/RISCV/Stack.md","subpath":"#Stack Operations"}
 	],
 	"edges":[]
 }

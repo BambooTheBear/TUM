@@ -1,0 +1,1 @@
+Zero Extension ist wie [[Sign Extension]] nur das eifach vorne immer eine 0 drangebaut wird

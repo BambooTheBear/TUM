@@ -15,7 +15,7 @@
 | s2-11 | x18-27   | Saved Register                              | Callee |
 | t3-6  | x28-31   | Temporary registers                         | Caller |
  ### Call Save:
-- **Caller saved** (= Saver: Called) ⇒ Caller has to _save_ the registers, because they might change
-	→ eg. The caller has to _save_ the _temporary_ register because he cannot excpect "temporary" registers to be save from change
+- **Caller saved** (= Saver: Caller) ⇒ Caller has to _save_ the registers, because they might change
+	→ eg. The caller has to _save_ the _temporary_ register because he cannot expect "temporary" registers to be save from change
  - **Callee saved** (= Saver: Callee) ⇒ Callee cannot change these, or has to make sure they are the same after the called function is done
 	 → eg. The callee cant touch _saved registers_ because they are supposed to "safe" from any random sub-programm changes
