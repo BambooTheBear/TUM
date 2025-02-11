@@ -1,0 +1,1 @@
+Zur Paralleisierung von Programmen können auch einfach mehrere Individuelle _Cores_ verwendet werden die unabhängig voneinander Teile des Programms (wenn sie ohne dependencies sind) komplett parallel auführen 

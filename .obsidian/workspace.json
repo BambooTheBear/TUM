@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "a3f52fa42dde4fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d3335ca62af4a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30036baa4dfa4884",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Pasted image 20250211212218.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250211212218"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f97b142d8ce148fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb63dca49b78a588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5abbcc8109f153fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e952a6aa40c3ca13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a09fa2bfff2024a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "1386ba3a016f30ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b86ea772b47c3a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d09fdb4271644795",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6c9e59e1d46beebe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e3599a6947ec8e70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ca6614f7afb3e50a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c9f756e887b3c372",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4faca2eaf912e954",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "30036baa4dfa4884",
+  "lastOpenFiles": [
+    "WiSe2024_25/ERA/BeepBoop/Pipeline Prozessor/Konflikte.md",
+    "WiSe2024_25/ERA/BeepBoop/Pipeline Prozessor/Pipeline Prozessor.md",
+    "WiSe2024_25/ERA/RISCV/Stack.md",
+    "assets/Pasted image 20250212003337.png",
+    "WiSe2024_25/ERA/BeepBoop/Pipeline Prozessor/_riscv_pipelined.png",
+    "assets/Pasted image 20250212003110.png",
+    "assets/riscv_pipelined 1.png",
+    "assets/riscv_pipelined.png",
+    "WiSe2024_25/ERA/BeepBoop/Parallelisierung/Roofline Modell.md",
+    "WiSe2024_25/ERA/BeepBoop/Pipeline Prozessor",
+    "assets/Pasted image 20250211234241.png",
+    "WiSe2024_25/ERA/BeepBoop/Parallelisierung/Formeln.md",
+    "WiSe2024_25/ERA/BeepBoop/Parallelisierung/MESI.md",
+    "assets/Pasted image 20250211233952.png",
+    "WiSe2024_25/ERA/BeepBoop/Parallelisierung/Multi Cores.md",
+    "WiSe2024_25/ERA/BeepBoop/Parallelisierung/Instruction and Data Streams.md",
+    "WiSe2024_25/ERA/BeepBoop/Multi Cycle/Multi Cycle Prozessor.md",
+    "WiSe2024_25/ERA/BeepBoop/Parallelisierung",
+    "WiSe2024_25/ERA/BeepBoop/Multi Cycle/Endliche Automaten.md",
+    "WiSe2024_25/ERA/BeepBoop/Multi Cycle/_riscv_multicycle.png",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/_riscv_single.png",
+    "WiSe2024_25/ERA/BeepBoop/Caches/Caches.md",
+    "assets/Pasted image 20250211212713.png",
+    "WiSe2024_25/ERA/BeepBoop/Speicher/D-Latch.md",
+    "WiSe2024_25/ERA/Asseblembler2ByteCode/Type Conditional Byte Decode.md",
+    "WiSe2024_25/ERA/BeepBoop/Multi Cycle",
+    "WiSe2024_25/ERA/BeepBoop/Speicher",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/Datenspeicher.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/Registerbank.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/Control Unit.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/Instruktionsspeicher.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/Programm Counter.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/ALU/ALU.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/ALU",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle",
+    "WiSe2024_25/ERA/BeepBoop/Untitled.md",
+    "WiSe2024_25/ERA/RISCV/Register.md",
+    "WiSe2024_25/ERA/BeepBoop/_Von Neumann Architektur.md",
+    "WiSe2024_25/ERA/RISCV/Branch.md",
+    "WiSe2024_25/ERA/Asseblembler2ByteCode",
+    "WiSe2024_25/ERA/Untitled.md",
+    "WiSe2024_25/ERA/RISCV/Addition.md",
+    "WiSe2024_25/ERA/BeepBoop/Single Cycle/ALU/Carry Ripple Addierer.md",
+    "WiSe2024_25/ERA/BeepBoop/Untitled.canvas",
+    "WiSe2024_25/ERA/BeepBoop/Caches",
+    "WiSe2024_25/ERA/BeepBoop",
+    "WiSe2024_25/ERA/RISCV/_RISCV.canvas",
+    "WiSe2024_25/ERA/Bits and Bobs",
+    "WiSe2024_25/DS/Kombinatorik/Kombinatorik.canvas",
+    "Untitled.canvas"
+  ]
+}
