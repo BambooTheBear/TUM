@@ -5,6 +5,7 @@
 | jal label        | [[Pseudo Instruction]]        | jal ra, label                                          | just like jal but since the return address ist almost always in **ra** (because [[Convention]]) this is just shorter                                                          | used most                        |
 | j label          | [[Pseudo Instruction]] Jumpr  | jal zero, label                                        | jumps to a function without storing (or overwriting) the return address                                                                                                       |                                  |
 | ret              | [[Pseudo Instruction]] return | jalr zero, ra, 0                                       | jumps to the stored return address (without saving a "new" return address obv.)                                                                                               | easy return                      |
+| tail label       | tail recursion call           |                                                        | When a recursive function is tail recursive, use "fail func" instead since the _ra_ doesnt need to be stored<br>=> somehow technically more efficient than doing it manually  |                                  |
 
 ^be8709
 
