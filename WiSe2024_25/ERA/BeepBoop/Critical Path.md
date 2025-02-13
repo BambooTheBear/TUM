@@ -1,0 +1,2 @@
+Der kritische Pfad einer Schaltung ist der längste Mögliche Pfad den ein Signal vom Eingang zum Ausgang nehmen kann,
+⇒ z.B. kritischer Pfad von [[Carry Ripple Addierer]] = kritischer Pfad vom Carry Bit des [[Volladdierer]]s zum Carry-Bit Ausgang = kritischer Pfad von [[Halbaddierer]] (1) + kritischer Pfad von UND Gatter (1) ⇒ 2\*n

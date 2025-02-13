@@ -15,4 +15,3 @@ Welche Cachezeile tatsächlcih verdrängt wird kann anhand von verschiedenen Sta
 - Least Recently Used
 - Least Frequently Used
 - First in first out (primitiver ansatz)
-- 

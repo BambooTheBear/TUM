@@ -11,7 +11,7 @@ Mathematische Beschreibung als 6-Tupel $(I, O, S, s_0, \delta, \lambda)$:
 ## Moore (Ausgabe abhängig vom Zustand)
 ![[Pasted image 20250211212218.png]]
 
-## Mealy (Asugabe abhängig von Zustand und Eingabe)
+## Mealy (Ausgabe abhängig von Zustand und Eingabe)
 ![[Pasted image 20250211212243.png]]
 
 # Kodierung
