@@ -11,6 +11,6 @@ $n\in\mathbb{N}_0 \text{ sei beliebig fixiert}$
 #### Induktionsannahme (I.A.)
 $P(n) \text{gilt für dieses n, da es mindestens ein } n\in\mathbb{N}_0 \text{ für das P(n) gilt (siehe I.B.)}$
 #### Induktionsbehauptung (I. Beh.)
-$P(n) \text{gilt für das fixierte n}$
+$P(n) \text{gilt für das fixierte n}+1$
 $\text{z.z.: } P(n)\Rightarrow P(n+1)$
 

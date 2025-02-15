@@ -15,7 +15,7 @@ Eine binäre Relation $R\subseteq A\times A$ ist eine _Äquivalenzrelation_ bzgl
 ⇒ z.B. "a=b" oder "a%m=b%m"
 ⇒ man kann die Objekte der Universums bzgl. der Relation in [[Potenzmenge#Partitionen|Partitionen]] unterteilen:
 z.B. "a%3=b%3" → $\{3\mathbb{Z},3\mathbb{Z}+1, 3\mathbb{Z}+2\}$
-⇒ die _Äquivalenklasse_ eines Objekts a bzgl. R ($[a]_R$) ⇒ "in welche Partition es fällt" ⇒ $[-5]_{(\%3)} = 3 \mathbb{Z}+1$
+⇒ die _Äquivalenzklasse_ eines Objekts a bzgl. R ($[a]_R$) ⇒ "in welche Partition es fällt" ⇒ $[-5]_{(\%3)} = 3 \mathbb{Z}+1$
 
 ## Ordnungsrelationen
 Eine binäre Relation $R\subseteq A\times A$ ist eine _Ordnungsrelation_ bzgl. der [[Mengen|Menge]] A wenn sie _antisymmetrisch, reflexiv und transitiv_ ist

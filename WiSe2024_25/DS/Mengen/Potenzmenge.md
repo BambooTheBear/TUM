@@ -1,4 +1,4 @@
-Die _Potenzmenge_ von M = $P(M) := 2^M := \{A | \subseteq A\}$ = Alle möglichen Teilmengen von M
+Die _Potenzmenge_ von M = $P(M) := 2^M := \{A | A\subseteq M\}$ = Alle möglichen Teilmengen von M
 z.B. $P(\{1,2\})=\{\emptyset,\{1\},\{2\},\{1,2\}\}$
 $|2^M|=2^{|M|}$
 
